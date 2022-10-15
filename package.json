@@ -1,0 +1,18 @@
+{
+  "name": "feather-icons-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "keywords": [],
+  "author": "Kenneth Ng <kenneth.ng.nym@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.9",
+    "prettier": "^2.7.1"
+  }
+}
